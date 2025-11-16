@@ -2,6 +2,8 @@
 
 Backend untuk Task Management App.
 
+> Aplikasi Task Management ini dibuat oleh **Yudha Papua Setyo Atmaji**.
+
 ## Tech Stack
 
 - Java 17
